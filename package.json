@@ -1,0 +1,16 @@
+{
+  "name": "disha-node-bot",
+  "version": "1.0.0",
+  "description": "NSFW + Mood + VC Voice Chat Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "@discordjs/voice": "^0.16.0",
+    "google-tts-api": "^2.0.1"
+  }
+}
